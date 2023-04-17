@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Taras-Veremchuk.github.io/filmoteka-team2",
+  "homepage": "https://GoitStudentsWorks.github.io/js_70_Taras-Veremchuk",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /filmoteka-team2/"
+    "build": "parcel build src/*.html --public-url /js_70_Taras-Veremchuk/"
   },
   "repository": {
     "type": "git",
